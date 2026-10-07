@@ -42,7 +42,7 @@ I haven't found an app that didn't feel like a loss of agency. I want to be remi
 - Space for reflection and journaling.
 - Breathing and soundscapes but these are premium.
 - Seasonal events.
-Yearly Subscription: $69.99 USD
+- Yearly Subscription: $69.99 USD
 Monthly Subscription: $9.99 USD
 
 
