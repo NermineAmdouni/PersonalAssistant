@@ -28,9 +28,9 @@ Technical Goals:
 - GoblinTools
 
 ### Reddit complains:
--"To be honest, I hate all the ADHD apps cause I feel like having to access a phone, go on an app, and set everything up is just extra steps that i don't want to do."
+- "To be honest, I hate all the ADHD apps cause I feel like having to access a phone, go on an app, and set everything up is just extra steps that i don't want to do."
 Potential Solution: Add a camera feature where u take photos of the things u need to do instead of type it and maybe teh ai can label it or guess the task.
--"For anything that repeats frequently I have a schedule I stick to. I grocery shop on the same day each week, I sort my meds on the same day each week, my meds are next to my toothbrush so I remember to take them etc.
+- "For anything that repeats frequently I have a schedule I stick to. I grocery shop on the same day each week, I sort my meds on the same day each week, my meds are next to my toothbrush so I remember to take them etc.
 I haven't found an app that didn't feel like a loss of agency. I want to be reminded when I forget something rather than follow a script."
 - "I've tried many ADHD and also general productivity apps, and eventually I got bored of each one when the novelty wore off."
 
