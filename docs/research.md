@@ -34,9 +34,15 @@ Potential Solution: Add a camera feature where u take photos of the things u nee
 I haven't found an app that didn't feel like a loss of agency. I want to be reminded when I forget something rather than follow a script."
 - "I've tried many ADHD and also general productivity apps, and eventually I got bored of each one when the novelty wore off."
 
-
-
-
-
+#### What i noticed:
+- People really like Finch it has a free plan and a premium one but only for extra features that are just for fun and newspapers and a better control of the timer.
+- Finch is basically having a pet birb that helps you achieve your goals everytime u do a task he goes to an adventure and maybe comes back with stories and he develops likes and dislikes.
+- The novelty is in the fact that you can dress him up and decoarte his house.
+- You can have your friends in the app to encourage each others with cheers.
+- Space for reflection and journaling.
+- Breathing and soundscapes but these are premium.
+- Seasonal events.
+Yearly Subscription: $69.99 USD
+Monthly Subscription: $9.99 USD
 
 
