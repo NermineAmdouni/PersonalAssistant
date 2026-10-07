@@ -15,4 +15,4 @@ progress).
 vs. not in my control.
 5. Build routines around the person's real life (hygiene, meals, work, social) and remind them
 gently.
-6. Add small tools like a Pomodoro timer and fidget games.
+6. Add small tools like a Pomodoro timer and fidget games, Emotions wheel and regulation.
