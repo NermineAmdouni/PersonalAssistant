@@ -8,4 +8,5 @@
 - User support email
 - Audience: External
 - Developer contact email
-- Add the scope in Google Cloud: Data access --> Add or Remove Scopes --> Manually add scopes: https://www.googleapis.com/auth/calendar.events
+- Add the scope in Google Cloud: Data access --> Add or Remove Scopes --> Manually add scopes: https://www.googleapis.com/auth/calendar.events : View and edit events on all your calendars
+- 
