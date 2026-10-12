@@ -10,3 +10,10 @@
 - Developer contact email
 - Add the scope in Google Cloud: Data access --> Add or Remove Scopes --> Manually add scopes: https://www.googleapis.com/auth/calendar.events : View and edit events on all your calendars
 - Added myself as a testing user
+
+## Configure the LLM and reesearch Data Models 12/10/2026
+- connected cursor to github repo
+- chose relational db
+- started chat cli
+- created virtual env and isntalled openai
+
